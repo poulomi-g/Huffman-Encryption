@@ -1,5 +1,8 @@
 # Huffman-Encryption
 
+### Description
+Programs that compress and decompress ﬁles using Huffman codes. The compressor will be a command-line utility that encodes any ﬁle into a compressed version with a .huf extension. The decompressor will be a web server that will let you directly browse compressed ﬁles, decoding them on-the-ﬂy as they are being sent to your web browser. 
+
 ### Included Files:
 - bitio.py: Contains the classs BitWriter and BitReader
 - compress.py: Runs the code to compress a file.
