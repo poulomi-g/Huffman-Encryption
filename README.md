@@ -3,7 +3,7 @@
 ### Description
 Programs that compress and decompress ﬁles using Huffman codes. The compressor will be a command-line utility that encodes any ﬁle into a compressed version with a .huf extension. The decompressor will be a web server that will let you directly browse compressed ﬁles, decoding them on-the-ﬂy as they are being sent to your web browser. 
 
-### Included Files:
+### Included Files as part of assignment:
 - bitio.py: Contains the classs BitWriter and BitReader
 - compress.py: Runs the code to compress a file.
 - huffman.py: Used to create huffman trees as well as encode and decode messages. To be written in class.
